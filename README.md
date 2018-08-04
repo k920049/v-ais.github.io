@@ -111,7 +111,7 @@
     최근 Bayesian Deep Learning 에서 Stochastic Process 이론을 크게 활용하는 논문들이 있습니다. 해당 논문을 이해하실 때 도움이 될 것입니다.
 
   - **MIT Principles of Digital Communication(영어자막)** :skull: :skull:
-    [링크](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-480-principles-of-digital-communications-i-fall-2006/)  
+    [링크](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-450-principles-of-digital-communications-i-fall-2006/)  
     신호 처리에 대한 개론강의입니다.  
     Cambridge Information Theory 와 같이 수강하시면 시너지 효과가 있는 강의입니다.  
     강의 중에 Fourier Analysis 내용을 다루기는 합니다만, Fourier Analysis 에 대한 선수를 요구하는 수준입니다.  
@@ -167,7 +167,7 @@
 | :-------------: |:-------------:| :-----: | :------:|
 | 디지털 영상 처리 | [<img src="./cover/DIP.jpg" width="480" height="250">](http://book.naver.com/bookdb/book_detail.nhn?bid=7538935) | :star::star: :skull::skull::skull: | NPTEL Digital Image Processing 강의의 주교재입니다. |
 | 컴퓨터 비전 | [<img src="./cover/CV.jpg" width="480" height="250">](http://book.naver.com/bookdb/book_detail.nhn?bid=7973898) | :star::star: :skull::skull: | 추후 작성 |
-| Computer Vision: A Modern Approach (2nd Edition) | [<img src="./cover/CV_Forsyth.jpg" width="480" height="250">](https://www.amazon.com/Computer-Vision-Modern-Approach-2nd/dp/014808592X) | :star: :skull: :skull: :skull: | Udacity Computer Vision 강의에서 사용하는 주교재입니다. 광범위한 주제를 다루고 있으며, reference 용으로 두고 보시기에 좋은 책입니다. |
+| Computer Vision: A Modern Approach (2nd Edition) | [<img src="./cover/CV_Forsyth.jpg" width="480" height="250">](https://www.amazon.com/Computer-Vision-Modern-Approach-2nd/dp/013608592X) | :star: :skull: :skull: :skull: | Udacity Computer Vision 강의에서 사용하는 주교재입니다. 광범위한 주제를 다루고 있으며, reference 용으로 두고 보시기에 좋은 책입니다. |
 | Multiple View Geometry in Computer Vision | [<img src="./cover/MULTIV.jpg" width="480" height="250">](https://www.amazon.com/Multiple-View-Geometry-Computer-Vision/dp/0521540518) | :skull: :skull: :skull: | Multiview Geometry 강의의 주교재입니다. 카메라 모델과 스테레오 비전에 대한 내용을 다루고 있는 책입니다. |
 | 기계학습 | [<img src="./cover/ML.jpg" width="480" height="250">](http://book.naver.com/bookdb/book_detail.nhn?bid=12873234) |  :star::star: :skull::skull: |  추후 작성 |
 | Pattern Recognition and Machine Learning | [<img src="./cover/PRML.jpg" width="480" height="250">](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738) | :star: :skull: :skull: | Stanford CS229 기계학습 개론과 Carnegie Mellon University 기계학습 개론에서 부교재로 쓰이고 있는, 머신러닝 개론서 중 가장 유명한 교재입니다. 기계학습의 큰 흐름을 보시기에 적합한 교재입니다. |
