@@ -167,6 +167,7 @@
 | :-------------: |:-------------:| :-----: | :------:|
 | 디지털 영상 처리  | [<img src="./cover/DIP.jpg" width="130" height="160">](http://book.naver.com/bookdb/book_detail.nhn?bid=7538935) | :star::star: :skull::skull::skull:  |  추후 작성|
 | 컴퓨터 비전      | [<img src="./cover/CV.jpg" width="130" height="160">](http://book.naver.com/bookdb/book_detail.nhn?bid=7973898)      |   :star::star: :skull::skull: |    추후 작성|
+| Computer Vision: A Modern Approach (2nd Edition) | [<img src="./cover/CV_Forsyth.jpg" width="130" height="160">](https://www.amazon.com/Computer-Vision-Modern-Approach-2nd/dp/013608592X) | :star: :skull: :skull: :skull: | 추후작성 |
 | 기계학습        | [<img src="./cover/ML.jpg" width="130" height="160">](http://book.naver.com/bookdb/book_detail.nhn?bid=12873234)     |    :star::star: :skull::skull:   |    추후 작성|
 | 밑바닥부터 시작하는 딥러닝        | [<img src="./cover/scratch.jpg" width="130" height="160">](http://book.naver.com/bookdb/book_detail.nhn?bid=11492334)     |    :star::star::star: :skull:   |       추후 작성|
 | DEEP LEARNING|[<img src="./cover/MIT.jpg" width="130" height="160">](http://www.deeplearningbook.org)     |  :star::star::star: :skull::skull::skull:   |       추후 작성|
