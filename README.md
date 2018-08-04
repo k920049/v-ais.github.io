@@ -165,7 +165,6 @@
 
 |    책 이름     | 사진       | 추천도 & 난이도 | 한줄평   |
 | :-------------: |:-------------:| :-----: | :------:|
-
 | 디지털 영상 처리 | [<img src="./cover/DIP.jpg" width="130" height="160">](http://book.naver.com/bookdb/book_detail.nhn?bid=7538935) | :star::star: :skull::skull::skull: | NPTEL Digital Image Processing 강의의 주교재입니다. |
 | 컴퓨터 비전 | [<img src="./cover/CV.jpg" width="130" height="160">](http://book.naver.com/bookdb/book_detail.nhn?bid=7973898) | :star::star: :skull::skull: | 추후 작성 |
 | Computer Vision: A Modern Approach (2nd Edition) | [<img src="./cover/CV_Forsyth.jpg" width="130" height="160">](https://www.amazon.com/Computer-Vision-Modern-Approach-2nd/dp/013608592X) | :star: :skull: :skull: :skull: | Udacity Computer Vision 강의에서 사용하는 주교재입니다. 광범위한 주제를 다루고 있으며, reference 용으로 두고 보시기에 좋은 책입니다. |
